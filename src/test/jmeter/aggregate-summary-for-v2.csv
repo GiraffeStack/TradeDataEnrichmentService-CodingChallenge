@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+"HTTP Request (V2 CSV with 10,000 data rows)",3,5704,5862,8355,8355,8355,2895,8355,100.000%,.35907,0.95,0.00
+HTTP Request (V2 CSV with 5 data rows),24,43,25,39,45,425,14,425,0.000%,.34744,0.12,0.20
+TOTAL,27,672,30,425,5862,8355,14,8355,11.111%,.20818,0.13,0.11

@@ -1,0 +1,6 @@
+/target
+logs/application.log.*
+.idea/
+/*.zip
+/combined.txt
+logs/
